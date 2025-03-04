@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS2022\\C\\New_learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8522A9FF-1A4A-46B6-8E94-DAB1B9110E7E}|New_learn\\New_learn.vcxproj|E:\\VS2022\\C\\New_learn\\New_learn\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8522A9FF-1A4A-46B6-8E94-DAB1B9110E7E}|New_learn\\New_learn.vcxproj|solutionrelative:New_learn\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8522A9FF-1A4A-46B6-8E94-DAB1B9110E7E}|New_learn\\New_learn.vcxproj|E:\\VS2022\\C\\New_learn\\New_learn\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8522A9FF-1A4A-46B6-8E94-DAB1B9110E7E}|New_learn\\New_learn.vcxproj|solutionrelative:New_learn\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.h",
+              "DocumentMoniker": "E:\\VS2022\\C\\New_learn\\New_learn\\add.h",
+              "RelativeDocumentMoniker": "New_learn\\add.h",
+              "ToolTip": "E:\\VS2022\\C\\New_learn\\New_learn\\add.h",
+              "RelativeToolTip": "New_learn\\add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T11:52:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\VS2022\\C\\New_learn\\New_learn\\test.c",
+              "RelativeDocumentMoniker": "New_learn\\test.c",
+              "ToolTip": "E:\\VS2022\\C\\New_learn\\New_learn\\test.c*",
+              "RelativeToolTip": "New_learn\\test.c*",
+              "ViewState": "AgIAALMAAAAAAAAAAAAxwMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-26T02:15:04.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

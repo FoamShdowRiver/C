@@ -1,0 +1,5 @@
+﻿  test.c
+E:\VS2022\C\Fneedle\Fneedle\test.c(313,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int **”
+E:\VS2022\C\Fneedle\Fneedle\test.c(313,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int **" 的参数 1 冲突
+E:\VS2022\C\Fneedle\Fneedle\test.c(310,8): warning C4047: “初始化”:“int **”与“int”的间接级别不同
+  Fneedle.vcxproj -> E:\VS2022\C\Fneedle\x64\Debug\Fneedle.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS2022\\C\\20250214\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5293B1A2-EA4F-43D9-83A6-3B246D2BFC71}|20250214\\20250214.vcxproj|E:\\VS2022\\C\\20250214\\20250214\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5293B1A2-EA4F-43D9-83A6-3B246D2BFC71}|20250214\\20250214.vcxproj|solutionrelative:20250214\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\VS2022\\C\\20250214\\20250214\\test.c",
+              "RelativeDocumentMoniker": "20250214\\test.c",
+              "ToolTip": "E:\\VS2022\\C\\20250214\\20250214\\test.c",
+              "RelativeToolTip": "20250214\\test.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA0wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T02:39:06.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
